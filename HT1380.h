@@ -9,7 +9,7 @@
  * If not, see <http://www.gnu.org/licenses/>.
 */
 
-#include "WConstants.h"
+#include "Arduino.h"
 
 #ifndef HT1380_H
 #define HT1380_H
